@@ -30,3 +30,8 @@ body {
   width: 70%;
   height: auto;
 }
+
+footer {
+    color: grey;
+    text-align: right;
+}
